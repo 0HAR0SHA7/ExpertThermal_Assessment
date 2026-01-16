@@ -1,4 +1,4 @@
-# Expert Thermal Assessment - Ready-to-Run
+# Expert Thermal Assessment 
 
 ## Overview
 
@@ -26,3 +26,4 @@ It includes a Flask API and a test script to validate predictions for multiple m
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate # Linux/Mac
+
